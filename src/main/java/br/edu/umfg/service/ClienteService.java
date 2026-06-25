@@ -1,7 +1,7 @@
-package service;
+package br.edu.umfg.service;
 
-import model.Cliente;
-import repository.ClienteRepository;
+import br.edu.umfg.model.Cliente;
+import br.edu.umfg.repository.ClienteRepository;
 
 import java.sql.SQLException;
 import java.util.List;

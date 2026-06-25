@@ -1,4 +1,4 @@
-package model;
+package br.edu.umfg.model;
 
 public class Cliente {
     private int    id;

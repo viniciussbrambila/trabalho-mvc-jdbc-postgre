@@ -1,7 +1,7 @@
-package repository;
+package br.edu.umfg.repository;
 
-import model.OrdemServico;
-import util.Conexao;
+import br.edu.umfg.model.OrdemServico;
+import br.edu.umfg.util.Conexao;
 import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;

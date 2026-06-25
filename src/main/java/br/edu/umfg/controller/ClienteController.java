@@ -1,6 +1,6 @@
-package controller;
-import model.Cliente;
-import service.ClienteService;
+package br.edu.umfg.controller;
+import br.edu.umfg.model.Cliente;
+import br.edu.umfg.service.ClienteService;
 
 import java.sql.SQLException;
 import java.util.List;

@@ -1,7 +1,7 @@
-package controller;
+package br.edu.umfg.controller;
 
-import model.OrdemServico;
-import service.OrdemServicoService;
+import br.edu.umfg.model.OrdemServico;
+import br.edu.umfg.service.OrdemServicoService;
 
 import java.sql.SQLException;
 import java.util.List;

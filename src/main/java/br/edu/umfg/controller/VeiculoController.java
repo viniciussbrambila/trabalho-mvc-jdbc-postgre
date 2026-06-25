@@ -1,7 +1,7 @@
-package controller;
+package br.edu.umfg.controller;
 
-import model.Veiculo;
-import service.VeiculoService;
+import br.edu.umfg.model.Veiculo;
+import br.edu.umfg.service.VeiculoService;
 import java.sql.SQLException;
 import java.util.List;
 

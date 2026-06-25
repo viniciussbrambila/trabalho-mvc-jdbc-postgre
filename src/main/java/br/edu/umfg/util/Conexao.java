@@ -1,4 +1,4 @@
-package util;
+package br.edu.umfg.util;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

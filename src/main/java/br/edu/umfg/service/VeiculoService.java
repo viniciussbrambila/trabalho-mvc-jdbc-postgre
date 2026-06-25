@@ -1,8 +1,8 @@
-package service;
+package br.edu.umfg.service;
 
-import model.Veiculo;
-import repository.VeiculoRepository;
-import repository.ClienteRepository;
+import br.edu.umfg.model.Veiculo;
+import br.edu.umfg.repository.VeiculoRepository;
+import br.edu.umfg.repository.ClienteRepository;
 
 import java.sql.SQLException;
 import java.util.List;

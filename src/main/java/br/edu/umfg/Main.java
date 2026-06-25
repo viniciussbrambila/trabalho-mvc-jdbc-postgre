@@ -1,17 +1,17 @@
+package br.edu.umfg;
 
-import controller.ClienteController;
-import controller.OrdemServicoController;
-import controller.VeiculoController;
-
-import model.Cliente;
-import model.OrdemServico;
-import model.Veiculo;
+import br.edu.umfg.controller.ClienteController;
+import br.edu.umfg.controller.OrdemServicoController;
+import br.edu.umfg.controller.VeiculoController;
+import br.edu.umfg.model.Cliente;
+import br.edu.umfg.model.OrdemServico;
+import br.edu.umfg.model.Veiculo;
 public class Main {
 
     public static void main(String[] args) {
 
-        ClienteController      clienteController = new ClienteController();
-        VeiculoController      veiculoController = new VeiculoController();
+        ClienteController clienteController = new ClienteController();
+        VeiculoController veiculoController = new VeiculoController();
         OrdemServicoController osController      = new OrdemServicoController();
 
         System.out.println("========== SIMULAÇÃO: Sistema de Oficina Mecânica ==========\n");

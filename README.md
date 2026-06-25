@@ -1,4 +1,4 @@
-## Sistema de Oficina Mecânica
+# Cenário 2 - Sistema de Oficina Mecânica
 
 ## Tabelas Identificadas
 
